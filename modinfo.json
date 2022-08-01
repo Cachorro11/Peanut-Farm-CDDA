@@ -1,0 +1,12 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "peanutfarm",
+    "name": "Peanut Farm",
+    "authors": [ "Cachorro11" ],
+    "maintainers": [ "Cachorro11" ],
+    "description": "Add Peanut Seeds. You can Plant it for make Peanut Butter or other things!",
+    "category": "items",
+    "dependencies": [ "dda" ]
+  }
+]
